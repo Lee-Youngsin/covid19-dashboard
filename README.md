@@ -1,1 +1,1 @@
-# covid19-dashboard 입니다
+# covid19-dashboard
