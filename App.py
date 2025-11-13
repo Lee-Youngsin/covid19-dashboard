@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.set_page_config(layout="wide")
 st.title("코로나 대시보드")
 
 tab1, tab2, tab3 = st.tabs(
